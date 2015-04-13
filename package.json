@@ -1,0 +1,26 @@
+{
+  "name": "cucumberjs-example",
+  "version": "1.0.0",
+  "description": "This is cucumber-js exapmle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaoshao/cucumberjs-example.git"
+  },
+  "keywords": [
+    "cucumber-js"
+  ],
+  "author": "zengwei.shao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoshao/cucumberjs-example/issues"
+  },
+  "homepage": "https://github.com/xiaoshao/cucumberjs-example",
+  "devDependencies": {
+    "cucumber": "^0.4.8",
+    "zombie": "^4.0.7"
+  }
+}
